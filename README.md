@@ -1,4 +1,11 @@
 ## Hi there 👋
+⚡ I'm Tylar Campbell - A Masters in Data Science graduate at Stanford University
+🤔 I'm looking for Data and Machine Learning Opportunities (Internship and Full Time Both) Starting Summer 2025
+
+I am primarily interested in the areas of AI speech technologies, Machine Learning, User Personalized Systems and Multimodal interactions.
+
+
+📫 How to reach me: tylar_campbell@sfu.ca
 
 <!--
 **Tylarcam/tylarcam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
