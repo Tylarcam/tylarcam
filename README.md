@@ -1,9 +1,11 @@
 ## Hi there 👋
 ⚡ I'm Tylar Campbell - A Masters in Data Science graduate at Stanford University
+
 🤔 I'm looking for Data and Machine Learning Opportunities (Internship and Full Time Both) Starting Summer 2025
 
-I am primarily interested in the areas of AI speech technologies, Machine Learning, User Personalized Systems and Multimodal interactions.
+I am primarily interested in the areas of User Personalized Systems and AI speech technologies, Machine Learning, and Multimodal interactions.
 
+🔭 I’m currently working on multimodal interactions that combine different ways of interacting with audio - like using voice commands, touch controls, and visual interfaces together.
 
 📫 How to reach me: tylar_campbell@sfu.ca
 
