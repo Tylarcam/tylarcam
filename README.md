@@ -29,8 +29,6 @@
 )
 ![Notion](https://camo.githubusercontent.com/dffc113c48aaf3d4ff62db008910c0af280ad6d834c2e990246873eab4796c6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465)
 
-![BlackForestLabs](https://img.shields.io/badge/BlackForestLabs-%23000000.svg?style=for-the-badge&logo=blackforestlabs&logoColor=white)
-
 ## Hi there 👋
 ⚡ I'm Tylar - I hold A Masters in Data Science graduate at Stanford University
 
