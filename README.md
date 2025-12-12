@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Tylar - Ph.D. in Interactive Arts & Technology @ Simon Fraser University
+I'm Tylar - Ph.D. candidate in Interactive Arts & Technology @ Simon Fraser University
 
 ### 🎯 Focus
 
