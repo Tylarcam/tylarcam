@@ -17,7 +17,7 @@ I design and evaluate interactive systems for complex domains:
 - **AI-powered debugging tools** (Spec_Tracer) - precision UX context capture
 - **Multimodal interaction design** - voice + visual interfaces
 - **User research automation** - streamlining UX insights
-- **Collaborative product development** @ Ethos Lab, iRhythm-adjacent HCI research
+- **Collaborative product development** @ Ethos Lab, Nobrainerco, HCI research
 
 ### 💼 Expertise
 
