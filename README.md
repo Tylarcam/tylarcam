@@ -49,6 +49,7 @@ I design and evaluate interactive systems for complex domains:
 ### 📚 Featured Projects
 
 - **[Spec_Tracer](https://github.com/tylarcam/Spec_Tracer)** - AI-powered UI debugging tool
+- **[audio-signal-visualizer](github.com/tylarcam/audio-signal-visualzer)** - Real-time frequency spectrum visualization
 - **[audio_transcriber](https://github.com/tylarcam/audio_transcriber)** - Speech-to-text with timestamps
 - **[jarvis_voice_agent](https://github.com/tylarcam/jarvis_voice_agent)** - Multimodal voice control system
 - **[grant-grafter](https://github.com/tylarcam/grant-grafter)** - Federal grant research automation
