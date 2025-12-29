@@ -1,61 +1,62 @@
-# Hi there 👋
+# Tylar Campbell
 
-I'm Tylar - Ph.D. candidate in Interactive Arts & Technology @ Simon Fraser University
+Applied AI engineer who ships production LLM/ML systems for real users.
 
-### 🎯 Focus
+## 🎯 Focus
 
-**Human Factors Engineering | Interactive Design | Usability Research**
+**Production AI Deployment** | **Foundation Model Integration** | **AI Education**
 
-I design and evaluate interactive systems for complex domains:
-- User-centered design for technical/regulated systems
-- Usability testing and user research methodologies
-- Human Factors for medical/healthcare technology
-- Interactive prototyping and design iteration
+I design and validate AI systems that solve real problems—from model evaluation frameworks at Handshake to teaching AI fundamentals at Columbia to deploying generative models in production.
 
-### 🧪 Recent Work
+## 💼 Current Work
 
-- **AI-powered debugging tools** (Spec_Tracer) - precision UX context capture
-- **Multimodal interaction design** - voice + visual interfaces
-- **User research automation** - streamlining UX insights
-- **Collaborative product development** @ Ethos Lab, Nobrainerco, HCI research
+- **AI Instructor @ Columbia University** (Fall 2025 - Spring 2026)  
+  Teaching Python, AI tooling, and production workflows to justice-impacted 
+  engineers via Justice Through Code program
+  
+- **AI Model Validation @ Handshake** (Aug 2025 - Present)  
+  Designed evaluation frameworks for multi-modal AI models, improving accuracy 30% through systematic prompt engineering and QA protocols
 
-### 💼 Expertise
+## 🚢 Recent Deployments
 
-- **Research Methods**: User testing, interaction design, qualitative analysis
-- **Technical Skills**: Python, TypeScript/React, TensorFlow, Data analysis
-- **Design Tools**: Figma, Notion, user testing frameworks
-- **Healthcare/Regulated Systems**: IEC 62366 awareness, compliance thinking
+### [TuneStory](https://tunestory.lovable.app) ✅ Shipped 2025
+Applied AI music product integrating Meta MusicGen via Modal cloud infrastructure.  
+**Stack:** MusicGen, Modal, Supabase, Gemini, TypeScript  
+**Focus:** Controllable AI generation with preserved creative intent
 
-### 🛠 Technical Skills
+**Key decisions:**
+- Chose Modal over ad-hoc GPU hosting for reproducibility + scalability
+- Structured generation as modular pipelines for creative iteration
+- Designed system to support future education use cases
 
-**UX/HCI**
-- User Research & Testing
-- Interactive Prototyping
-- Accessibility Design
-- Design Iteration
+[Demo Video](https://youtu.be/dKQ2hteZXa4) | [GitHub](https://github.com/Tylarcam/tunestory)
 
-**Programming**
-- Python | TypeScript | JavaScript | HTML/CSS
-- React | Next.js | Node.js
+### Other Production Projects
+- **Spec_Tracer** - AI-powered UI debugging tool with precision context capture
+- **jarvis_voice_agent** - Multimodal voice control system (AssemblyAI + ElevenLabs)
+- **audio_transcriber** - Speech-to-text pipeline with timestamps
 
-**ML/AI**
-- TensorFlow | HuggingFace | Claude/LLM APIs
-- Data Analysis (Pandas, NumPy)
+## 🛠 Technical Stack
 
-**Tools**
-- Figma | Notion | Git | Docker
-- Voice AI (AssemblyAI, Elevenlabs)
+**AI/ML:** TensorFlow, HuggingFace, Claude/LLM APIs, MusicGen, Prompt Engineering  
+**Backend:** Python, TypeScript/React, Node.js, Modal, Supabase  
+**Data:** Pandas, NumPy, SQL, data validation frameworks  
+**Tools:** Git, Docker, Notion, Figma
 
-### 📚 Featured Projects
+## 📚 Background
 
-- **[Spec_Tracer](https://github.com/tylarcam/Spec_Tracer)** - AI-powered UI debugging tool
-- **[audio-signal-visualizer](https://github.com/Tylarcam/audio-signal-visualizer)** - Real-time frequency spectrum visualization
-- **[audio_transcriber](https://github.com/tylarcam/audio_transcriber)** - Speech-to-text with timestamps
-- **[jarvis_voice_agent](https://github.com/tylarcam/jarvis_voice_agent)** - Multimodal voice control system
-- **[grant-grafter](https://github.com/tylarcam/grant-grafter)** - Federal grant research automation
+PhD candidate in Interactive Arts & Technology @ Simon Fraser University  
+Research focus: Multimodal AI systems and human-AI interaction  
+Teaching: AI literacy, Python fundamentals, production ML workflows
 
-### 📫 Let's Connect
+## 📫 Connect
 
-📧 **Email:** tylar.campbell@sfu.ca  
-💼 **LinkedIn:** [in/tylar-campbell](https://linkedin.com/in/tylar-campbell)  
-🌐 **Portfolio:** [tylarcampbell.com](https://www.tylarcampbell.com)
+- **LinkedIn:** [in/tylar-campbell](https://linkedin.com/in/tylar-campbell)
+- **Email:** tylar.campbell@sfu.ca
+- **Portfolio:** [tylarcampbell.com](https://www.tylarcampbell.com/)
+
+---
+
+💡 **Currently seeking:** AI Product Manager or Applied AI Engineering roles 
+where I can embed with teams to solve customer problems and own 
+problem-to-deployment cycles.
